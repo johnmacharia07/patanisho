@@ -33,7 +33,7 @@ To access this project  on you local files, you can clone it using the following
 
 6. Access the deploy icon button then changee the environment to "Javascript VM".
 
-7. Input minimum dialog box and deploy.
+7. Make an input in the minimum dialog box and deploy.
 
 
 ## TECHNOLOGIES USED:
@@ -53,7 +53,7 @@ To access this project  on you local files, you can clone it using the following
     
 ## LIVE SETUP
 
-View [LIVE]:<iframe src="https://drive.google.com/file/d/19HAi8KbwT1YW1JTb8pJUg3n8F3II2eVY/preview" width="640" height="480"></iframe>
+View [LIVE]:
 
 ## LICENSE.
 
