@@ -57,7 +57,7 @@ Ethereum.
     
 ## LIVE SETUP
 
-View [LIVE]:
+View [LIVE]: https://drive.google.com/file/d/147P-5L-ZiZATRJgeUd9lq1OYm8N0N9SY/view
 
 ## LICENSE.
 
