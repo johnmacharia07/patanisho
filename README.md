@@ -1,7 +1,5 @@
 # Patanisho
 
-A smart-contract  that enables fast and efficient leasing of vehicles
-
 <img src="https://cdn.dribbble.com/users/3886885/screenshots/14768618/media/cccea1f6246bf1f07f43e070f7a59af5.jpg?compress=1&resize=400x300&vertical=top" alt="">
 
 ## Team Members:
@@ -15,7 +13,11 @@ A smart-contract  that enables fast and efficient leasing of vehicles
 
 ## DESCRIPTION
 
+A smart-contract  that enables fast and efficient leasing of vehicles
 
+## PROBLEM
+
+Lack of transparency during transaction dealings and time used for each transaction is long and inefficient.
 
 ## SETUP
 
@@ -35,6 +37,8 @@ To access this project  on you local files, you can clone it using the following
 
 7. Make an input in the minimum dialog box and deploy.
 
+## PLATFORM
+Ethereum. 
 
 ## TECHNOLOGIES USED:
 
