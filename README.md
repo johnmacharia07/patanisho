@@ -53,7 +53,7 @@ To access this project  on you local files, you can clone it using the following
     
 ## LIVE SETUP
 
-View [LIVE]:https://drive.google.com/file/d/19HAi8KbwT1YW1JTb8pJUg3n8F3II2eVY/view
+View [LIVE]:<iframe src="https://drive.google.com/file/d/19HAi8KbwT1YW1JTb8pJUg3n8F3II2eVY/preview" width="640" height="480"></iframe>
 
 ## LICENSE.
 
